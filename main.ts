@@ -5,3 +5,9 @@ loops.everyInterval(1000, function () {
     	
     }
 })
+loops.everyInterval(1000, function () {
+	
+})
+loops.everyInterval(1000, function () {
+	
+})
